@@ -1,0 +1,7 @@
+{
+    "parent":"block/cube_column",
+    "textures":{
+        "end":"more_nuggets:blocks/warped_stem_top",
+        "side": "more_nuggets:blocks/warped_stem_side"
+    }
+}

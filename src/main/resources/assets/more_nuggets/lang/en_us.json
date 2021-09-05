@@ -1,0 +1,20 @@
+{
+    "item.more_nuggets.diamond_nugget": "Diamond Nugget",
+    "block.more_nuggets.diamond_nugget_ore": "Diamond Nugget Ore",
+    "block.more_nuggets.iron_nugget_ore": "Iron Nugget Ore",
+    "block.more_nuggets.gold_nugget_ore": "Gold nugget ore",
+    "block.more_nuggets.diamond_nugget_ore_stone": "Diamond Nugget Ore",
+    "block.more_nuggets.iron_nugget_ore_stone": "Iron Nugget Ore",
+    "block.more_nuggets.gold_nugget_ore_stone": "Gold nugget ore",
+    "block.more_nuggets.crimson_stem": "Crimson stem",
+    "block.more_nuggets.warped_stem": "Warped stem",
+    "block.more_nuggets.warped_wart_block": "Warped Wart Block",
+    "itemGroup.MoreNuggetItemGroup": "More Nuggets",
+    "advancements.root.title": "More Nuggets",
+    "advancements.root.description": "Get Iron Nugget.",
+    "advancements.gold_nugget.title": "Gold Nugget!",
+    "advancements.gold_nugget.description": "Get Gold Nugget.",
+    "advancements.diamond_nugget.title": "Diamond?",
+    "advancements.diamond_nugget.description": "Get Diamond Nugget."
+
+}

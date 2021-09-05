@@ -1,0 +1,20 @@
+{
+    "item.more_nuggets.diamond_nugget": "ダイヤモンドの欠片",
+    "block.more_nuggets.diamond_nugget_ore": "ダイヤモンドの欠片の鉱石",
+    "block.more_nuggets.iron_nugget_ore": "鉄塊鉱石",
+    "block.more_nuggets.gold_nugget_ore": "金塊鉱石",
+    "block.more_nuggets.diamond_nugget_ore_stone": "ダイアモンドの欠片の鉱石",
+    "block.more_nuggets.iron_nugget_ore_stone": "鉄塊鉱石",
+    "block.more_nuggets.gold_nugget_ore_stone": "金塊鉱石",
+    "block.more_nuggets.crimson_stem": "真紅の幹",
+    "block.more_nuggets.warped_stem": "歪んだ幹",
+    "block.more_nuggets.warped_wart_block": "歪んだウォートブロック",
+    "itemGroup.MoreNuggetItemGroup": "More Nuggets",
+    "advancements.root.title": "More Nuggets",
+    "advancements.root.description": "鉄塊を手に入れる。",
+    "advancements.gold_nugget.title": "金塊！",
+    "advancements.gold_nugget.description": "金塊を手に入れる。",
+    "advancements.diamond_nugget.title": "ダイヤモンド？",
+    "advancements.diamond_nugget.description": "ダイヤモンドの欠片を手に入れる。"
+
+}

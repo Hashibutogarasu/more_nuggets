@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "more_nuggets:block/gold_nugget_ore_model" }
+    }
+}

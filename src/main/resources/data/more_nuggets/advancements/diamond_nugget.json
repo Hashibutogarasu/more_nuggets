@@ -1,0 +1,30 @@
+{
+  "parent": "more_nuggets:gold_nugget",
+  "display": {
+    "icon": {
+      "item": "more_nuggets:diamond_nugget"
+    },
+    "title": {
+      "translate": "advancements.diamond_nugget.title"
+    },
+    "description": {
+      "translate": "advancements.diamond_nugget.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_example_ingot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "more_nuggets:diamond_nugget"
+          }
+        ]
+      }
+    }
+  }
+}
